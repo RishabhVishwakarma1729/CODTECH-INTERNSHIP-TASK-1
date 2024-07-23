@@ -5,6 +5,10 @@
 - **Duration**: June to July 2024
 - **Mentor**: NEELA SANTHOSH KUMAR
 
+![Screenshot (663)](https://github.com/user-attachments/assets/ff03f75e-17f3-4c7b-b4b1-b10a3b175712)
+![Screenshot (664)](https://github.com/user-attachments/assets/9af5d87a-57ec-4870-ac35-3503438c11f1)
+
+
 # Titanic Dataset Exploratory Data Analysis (EDA)
 
 ## Overview
